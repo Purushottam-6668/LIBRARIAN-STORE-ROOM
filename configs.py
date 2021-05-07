@@ -31,19 +31,18 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
 🧑🏻‍💻 **Developers:**
-
 __**[🐍PURUSHOTTAM MAHAJAN🐍](https://t.me/Purushottam_Mahajan)**__
 
 __**[😼ANIMESH VERMA😼](https://t.me/AniMesH941)**__
 
-👥 **【◉ ALL ABOUT DEVLOPERS ◉】:** 
+👥 **【◉INFO ABOUT DEVS ◉】:** 
 [【◉Librarian Networks◉】](https://t.me/Team_Librarian/57)
 
-📢 **【◉ For Enterance Exams◉】:**
+📢**【◉For Enterance Exams◉】:**
  [【◉SCIENCE WALE◉】](https://t.me/Science_Wale)
  
  🤓 **【◉For MH-BOARDS ◉】:**
- [【◉LIBRARIAN OFFICIAL◉】](htps://t.me/Librarian_Offficial)
+  [【◉LIBRARIAN OFFICIAL◉】]https://t.me/Librarian_Official)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developers:**
