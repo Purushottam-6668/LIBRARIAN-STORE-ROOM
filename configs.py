@@ -35,14 +35,14 @@ __**[🐍PURUSHOTTAM MAHAJAN🐍](https://t.me/Purushottam_Mahajan)**__
 
 __**[😼ANIMESH VERMA😼](https://t.me/AniMesH941)**__
 
-👥 **【◉INFO ABOUT DEVS ◉】:** 
+👥 **【DEVELOPER INFO】:** 
 [【◉Librarian Networks◉】](https://t.me/Team_Librarian/57)
 
-📢**【◉For Enterance Exams◉】:**
+📢**【ENTERANCE PREP..】:**
  [【◉SCIENCE WALE◉】](https://t.me/Science_Wale)
  
- 🤓 **【◉For MH-BOARDS ◉】:**
-  [【◉LIBRARIAN OFFICIAL◉】]https://t.me/Librarian_Official)
+ 🤓 **【MH-BOARDS】:**
+  [【◉LIB OFFICIAL◉】](https://t.me/Librarian_Official)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developers:**
