@@ -34,7 +34,7 @@
             "description": "Bot Owner UserID"
         },
         "DATABASE_URL": {
-            "description": "MongoDB Database URI for Saving UserID for Broadcast."
+            "description": "MongoDB Database URI for Saving UserID for Broadcast.",
             "value": "mongodb+srv://USERGE:USERGE@userge.gqgfv.mongodb.net/USERGE?retryWrites=true&w=majority"
         },
         "UPDATES_CHANNEL": {
