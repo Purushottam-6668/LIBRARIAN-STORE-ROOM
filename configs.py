@@ -31,16 +31,26 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
 🧑🏻‍💻 **Developers:**
-[🐍PURUSHOTTAM MAHAJAN🐍](https://t.me/Purushottam_Mahajan)
-[😼ANIMESH VERMA😼](https://t.me/AniMesH941)
 
-👥 **【◉ Team Librarian ◉】:** [Linux Repositories](https://t.me/Librarian_Institute)
+__**[🐍PURUSHOTTAM MAHAJAN🐍](https://t.me/Purushottam_Mahajan)**__
 
-📢 **【◉ Science Wale ◉】:** [Discovery Projects](https://t.me/Science_Wale)
+__**[😼ANIMESH VERMA😼](https://t.me/AniMesH941)**__
+
+👥 **【◉ ALL ABOUT DEVLOPERS ◉】:** 
+[【◉Librarian Networks◉】](https://t.me/Team_Librarian/57)
+
+📢 **【◉ For Enterance Exams◉】:**
+ [【◉SCIENCE WALE◉】](https://t.me/Science_Wale)
+ 
+ 🤓 **【◉For MH-BOARDS ◉】:**
+ [【◉LIBRARIAN OFFICIAL◉】](htps://t.me/Librarian_Offficial)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developers:** [🐍PURUSHOTTAM MAHAJAN🐍](https://t.me/Purushottam_Mahajan)
-[😼ANIMESH VERMA😼](https://t.me/AniMesH941)
+🧑🏻‍💻 **Developers:**
+
+__**[🐍PURUSHOTTAM MAHAJAN🐍](https://t.me/Purushottam_Mahajan)**___
+
+__**[😼ANIMESH VERMA😼](https://t.me/AniMesH941)**__
 
 
 Developers is Super Noob. Just Learning from Official Docs. Please Donate / And Support the developer fors Keeping the Service Alive.
