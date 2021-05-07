@@ -1,14 +1,14 @@
 {
     "name": "【◉ LIBRARIAN'S STORE ROOM ◉】",
     "description": "A Telegram file store bot Devloped By Devs Of Team Librarian ",
-    "logo": "https://telegra.ph/file/1be7f0fdb5fcb98a1956d.jpg"
+    "logo": "https://telegra.ph/file/1be7f0fdb5fcb98a1956d.jpg",
     "keywords": [
         "telegram",
         "files",
         "store",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/PyroFilesStoreBot",
+    "repository": "https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM",
     "website": "https://telegram.dog/Team_Librarian",
     "success_url": "http://t.me/LibrarianStore_Bot",
     "env": {
