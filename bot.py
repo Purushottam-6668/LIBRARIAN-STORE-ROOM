@@ -130,7 +130,7 @@ async def main(bot, message):
             await forwarded_msg.reply_text(
                 f"#PRIVATE_FILE:\n\n[{message.from_user.first_name}](tg://user?id={message.from_user.id}) Got File Link!",
                 parse_mode="Markdown", disable_web_page_preview=True)
-            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Purushottam-6668{file_er_id}"
+            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Purushottam-6668_{file_er_id}"
             await editable.edit(
                 f"**Your File Stored in my Database!**\n\nHere is the Permanent Link of your file: {share_link} \n\nJust Click the link to get your file! And Enjoy 😼",
                 parse_mode="Markdown",
