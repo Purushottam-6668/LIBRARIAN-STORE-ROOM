@@ -11,19 +11,19 @@
 ༆``Successed Version On Telegram´´ <b>[「❀LIBRARIAN'S URL UPLOADER ❀」](http://t.me/TheLibrarianUrlDlRobot) <b>
 # Info 
 <p align="center">
-    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 "><img src="https://img.shields.io/github/stars/PURUSHOTTAM/LIBRARIAN-URL-UPLOADER-2.1 ?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM "><img src="https://img.shields.io/github/stars/PURUSHOTTAM/LIBRARIAN-URL-UPLOADER-2.1 ?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 /dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 "> <img src="https://img.shields.io/github/repo-size/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 ?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 /commits/main"> <img src="https://img.shields.io/github/last-commit/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 ?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM.1"> <img src="https://img.shields.io/github/issues/Purushottam-6668/LIBRARIAN-STORE-ROOM.1?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM.1/network/members"> <img src="https://img.shields.io/github/forks/Purushottam-6668/LIBRARIAN-STORE-ROOM.1?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM "> <img src="https://img.shields.io/github/repo-size/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 ?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM /commits/main"> <img src="https://img.shields.io/github/last-commit/Purushottam-6668/LIBRARIAN-STORE-ROOM.1 ?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM"> <img src="https://img.shields.io/github/issues/Purushottam-6668/LIBRARIAN-STORE-ROOM.1?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM/network/members"> <img src="https://img.shields.io/github/forks/Purushottam-6668/LIBRARIAN-STORE-ROOM.1?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 <p align="center">
 
-<a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM.1"><img src="https://media.giphy.com/media/2uJ0EhZnMAMDe/giphy.gif" alt="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM" height=300px, width=720px></a>
+<a href="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM"><img src="https://media.giphy.com/media/2uJ0EhZnMAMDe/giphy.gif" alt="https://github.com/Purushottam-6668/LIBRARIAN-STORE-ROOM" height=300px, width=720px></a>
 
 <br>
 
