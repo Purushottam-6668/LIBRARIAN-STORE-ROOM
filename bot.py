@@ -299,7 +299,7 @@ async def button(bot, cmd: CallbackQuery):
                                              url="https://t.me/Animesh_941/53")
                     ],
                     [
-                        InlineKeyboardButton("Go Home", callback_data="gotohome"),
+                        InlineKeyboardButton("【◉ HOME ◉】", callback_data="gotohome"),
                         InlineKeyboardButton("【◉ DEVELOPERS ◉】", callback_data="aboutdevs")
                     ]
                 ]
@@ -318,7 +318,7 @@ async def button(bot, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("【◉ About Bot  ◉】", callback_data="aboutbot"),
-                        InlineKeyboardButton("Go Home", callback_data="gotohome")
+                        InlineKeyboardButton("【◉ HOME ◉】", callback_data="gotohome")
                     ]
                 ]
             )
